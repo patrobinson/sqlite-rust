@@ -1,0 +1,10 @@
+[package]
+name = "sqlite-rust"
+version = "0.1.0"
+authors = ["Patrick Robinson <_@patrobinson.dev>"]
+edition = "2021"
+rust-version = "1.80"
+
+[dependencies]
+anyhow = "1.0.68"                                # error handling
+byteorder = "1.5.0"                             # error handling
